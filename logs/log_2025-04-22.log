@@ -1,0 +1,42 @@
+2025-04-22 10:35:38,262 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 10:35:38,636 - ERROR - Failed to download data from https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)>
+2025-04-22 11:02:24,633 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 11:02:24,786 - ERROR - Failed to download data from https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)>
+2025-04-22 11:06:02,371 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 11:06:02,548 - ERROR - Failed to download data from https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)>
+2025-04-22 11:13:08,083 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 11:13:09,006 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-22 11:13:09,141 - INFO - Saved train data with 26930 records to artifacts\raw\train.csv
+2025-04-22 11:13:09,150 - INFO - Saved validation data with 2993 records to artifacts\raw\validation.csv
+2025-04-22 11:13:09,186 - INFO - Saved test data with 16925 records to artifacts\raw\test.csv
+2025-04-22 11:13:09,187 - INFO - Split summary:
+2025-04-22 11:13:09,187 - INFO - Train set: 26930 records
+2025-04-22 11:13:09,187 - INFO - Validation set: 2993 records
+2025-04-22 11:13:09,187 - INFO - Test set (demand=-1): 16925 records
+2025-04-22 11:13:09,187 - INFO - Data Ingestion completed successfully
+2025-04-22 12:08:46,863 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 12:08:47,680 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-22 12:08:47,820 - INFO - Saved train data with 26930 records to artifacts\raw\train.csv
+2025-04-22 12:08:47,827 - INFO - Saved validation data with 2993 records to artifacts\raw\validation.csv
+2025-04-22 12:08:47,861 - INFO - Saved test data with 16925 records to artifacts\raw\test.csv
+2025-04-22 12:08:47,861 - INFO - Split summary:
+2025-04-22 12:08:47,861 - INFO - Train set: 26930 records
+2025-04-22 12:08:47,862 - INFO - Validation set: 2993 records
+2025-04-22 12:08:47,862 - INFO - Test set (demand=-1): 16925 records
+2025-04-22 12:08:47,862 - INFO - Data Ingestion completed successfully
+2025-04-22 12:08:47,871 - INFO - Data Processing started
+2025-04-22 12:08:48,151 - INFO - Saved processed files to artifacts\processed
+2025-04-22 12:08:48,152 - INFO - Data Processing completed successfully
+2025-04-22 12:11:51,484 - INFO - Data Ingestion started for https://tap30test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-22 12:11:52,954 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-22 12:11:53,092 - INFO - Saved train data with 26930 records to artifacts\raw\train.csv
+2025-04-22 12:11:53,102 - INFO - Saved validation data with 2993 records to artifacts\raw\validation.csv
+2025-04-22 12:11:53,139 - INFO - Saved test data with 16925 records to artifacts\raw\test.csv
+2025-04-22 12:11:53,140 - INFO - Split summary:
+2025-04-22 12:11:53,140 - INFO - Train set: 26930 records
+2025-04-22 12:11:53,140 - INFO - Validation set: 2993 records
+2025-04-22 12:11:53,140 - INFO - Test set (demand=-1): 16925 records
+2025-04-22 12:11:53,140 - INFO - Data Ingestion completed successfully
+2025-04-22 12:11:53,149 - INFO - Data Processing started
+2025-04-22 12:11:53,366 - INFO - Saved processed files to artifacts\processed
+2025-04-22 12:11:53,366 - INFO - Data Processing completed successfully
