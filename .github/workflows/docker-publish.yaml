@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: hamedmakian2018/tap30-ride-demandmlops:${{ env.RELEASE_VERSION }}
+          tags: hamedmakian/tap30-ride-demandmlops:${{ env.RELEASE_VERSION }}
           
